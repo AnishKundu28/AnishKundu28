@@ -16,13 +16,13 @@
 ## 🚀 Tech Stack
 
 **Languages:**  
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `C` `C++`
 
 **Frameworks / Libraries:**  
-`TensorFlow` `Scikit-Learn` `Spring Boot` `JSP` `Bootstrap`
+`TensorFlow` `Scikit-Learn` `Seaborn` `Numpy` `Panda` `JSP` `Servlet`
 
 **Tools / Platforms:**  
-`Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code`
+`Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code` `Android Studio`
 
 ---
 
