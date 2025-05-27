@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish Kundu
 
-<!--
-**AnishKundu28/AnishKundu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year Computer Science student | 💻 Passionate about Software Development, Machine Learning, and Cloud Computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🔭 Currently working on Bengali Handwritten Character Recognition using CNN & TensorFlow  
+- 🌱 Exploring AWS, Java Servlets + JSP, and full-stack web development  
+- 📈 Interested in building scalable applications and solving real-world problems  
+- ⚡ Fun fact: I design UI/UX prototypes in Figma and bring them to life using code!
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frameworks / Libraries:**  
+`TensorFlow` `Scikit-Learn` `Spring Boot` `JSP` `Bootstrap`
+
+**Tools / Platforms:**  
+`Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code`
+
+---
+
+## 📌 Pinned Projects
+
+Here are some of my highlighted projects. Visit my GitHub to see more!
+
+- 📝 [Bengali OCR using CNN](https://github.com/anishkundu28/Bengali-OCR) – A deep learning project recognizing handwritten Bengali characters.
+- 📊 [Life Expectancy Analysis](https://github.com/anishkundu28/Life-Expectancy-ML) – A machine learning notebook exploring global health indicators.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anishkundu)  
+- 📧 Email: anishkundu28092002@gmail.com  
+- 🌐 Portfolio (coming soon)
+
+---
+
+> “Strive for progress, not perfection.” 💪
