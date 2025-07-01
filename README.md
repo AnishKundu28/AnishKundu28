@@ -22,7 +22,7 @@
 `TensorFlow` `Scikit-Learn` `Seaborn` `Numpy` `Panda` `JSP` `Servlet`
 
 **Tools / Platforms:**  
-`Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code` `Android Studio`
+`Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code` `Android Studio` `Eclipse`
 
 ---
 
