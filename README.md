@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 - 🔭 Currently working on Bengali Handwritten Character Recognition using CNN & TensorFlow  
-- 🌱 Exploring AWS, Java Servlets + JSP, and full-stack web development  
+- 🌱 Exploring Java Servlets + JSP + Spring, and full-stack web development  
 - 📈 Interested in building scalable applications and solving real-world problems  
 - ⚡ Fun fact: I design UI/UX prototypes in Figma and bring them to life using code!
 
