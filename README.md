@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anish Kundu
 
-🎓 Final year Computer Science student | 💻 Passionate about Software Development, Machine Learning, and Cloud Computing
+🎓 Final year Computer Science student | 💻 Passionate about Software Development, Data Science & Machine Learning, and Cloud Computing
 
 ---
 
