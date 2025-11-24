@@ -19,7 +19,7 @@
 `Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `C` `C++`
 
 **Frameworks / Libraries:**  
-`TensorFlow` `Scikit-Learn` `Seaborn` `Numpy` `Panda` `JSP` `Servlet` `Pytorch`
+`TensorFlow` `Scikit-Learn` `Seaborn` `Numpy` `Panda` `JSP` `Servlet` `Pytorch` `YOLO`
 
 **Tools / Platforms:**  
 `Git` `GitHub` `Apache Tomcat` `MySQL` `AWS` `Figma` `VS Code` `Android Studio` `Eclipse`
