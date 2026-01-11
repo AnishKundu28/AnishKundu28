@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 - 🔭 Recently worked on Underwater Object Detection using Yolov8  
-- 🌱 Exploring Java Servlets + JSP + Spring, and full-stack web development  
+- 🌱 Exploring Java Servlets + JSP + Spring, and React  
 - 📈 Interested in building scalable applications and solving real-world problems  
 - ⚡ Fun fact: I design UI/UX prototypes in Figma and bring them to life using code!
 
