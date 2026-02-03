@@ -16,16 +16,16 @@
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `C` `C++`
+`Java` `Python` `JavaScript` `SQL` `HTML` `CSS` `C` `C++`
 
 ### 🌐 Web Development Frameworks & Technologies
-`Spring Boot` `JPA / Hibernate` `React` `JSP` `Servlets` `REST APIs`
+`Spring Boot` `JPA / Hibernate` `React` `JSP` `Servlets` `REST APIs` `MySQL`
 
 ### 📊 Data Science & Machine Learning Frameworks
 `TensorFlow` `PyTorch` `Scikit-Learn` `YOLO` `NumPy` `Pandas` `Seaborn`
 
 ### 🛠 Tools & Platforms
-`Git` `GitHub` `MySQL` `Apache Tomcat` `AWS`  
+`Git` `GitHub` `Apache Tomcat` `AWS`  
 `VS Code` `Eclipse (STS)` `Android Studio` `Figma`
 
 ---
